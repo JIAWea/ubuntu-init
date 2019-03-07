@@ -9,6 +9,3 @@
 * chrome
 * vim
 * indicator-sysmonitor(系统信息实时显示)
-* java
-* nodejs & npm
-* albert(全局搜索)
