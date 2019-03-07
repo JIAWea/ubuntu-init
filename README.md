@@ -1,7 +1,6 @@
 # ubuntu-init
 
-# ubuntu-init
-# ubuntu 系统安装后，快速安装所需软件。
+**ubuntu 系统安装后，快速安装所需软件**
 
 
 
